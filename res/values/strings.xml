@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Taxi Management System</string>
+    
+    <string name="action_settings">Action</string>
+    <string name="time_allocator">Time Allocator</string>
+    <string name="item1">Settings</string>
+    <string name="item2">About</string>
+
+</resources>
